@@ -13,3 +13,4 @@
 ![AltText](https://github.com/Larasati11/Fungsi-Agregat/blob/master/Responsive%20Image%20Gallery%201.png)
 ![AltText](https://github.com/Larasati11/Fungsi-Agregat/blob/master/Responsive%20Image%20Gallery%202.png)
 ![AltText](https://github.com/Larasati11/Fungsi-Agregat/blob/master/Responsive%20Template%201.png)
+![AltText](https://github.com/Larasati11/Fungsi-Agregat/blob/master/Responsive%20Template%202.png)
